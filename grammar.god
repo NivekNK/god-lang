@@ -86,6 +86,3 @@ demeter()
 aletheia()
 dionisio()
 ------------------
-
-son unos hueso asi, que parecen pacientes de sida, y me dicen, "te voy a dar un tiro", y yo le digo un tiro de leche te voy a 
-dar en la boca, tu me escribe y yo le doy un tiro de leche a la gamberra asquerosa puta *escupe*, de la madre que te pario. 
