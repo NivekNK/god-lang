@@ -30,8 +30,8 @@ POW_TOKEN: 'dionisio';
 STRING: '"' .*? '"';
 
 fragment NATURAL: [0-9];
-NUMBER: NATURAL+;
-FLOATING_POINT: NATURAL+ '.' NATURAL+;
+NUMBER: '-'? NATURAL+;
+FLOATING_POINT: '-'? NATURAL+ '.' NATURAL+;
 
 LPAREN: '(';
 RPAREN: ')';
